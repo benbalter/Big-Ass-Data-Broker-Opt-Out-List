@@ -7,7 +7,7 @@ import { buildBrokers, gitBlobSha } from './build-brokers.mjs';
 // Parser edge cases, from a fixture so upstream README edits don't break them.
 const fixture = `# List
 
-Most recently updated on September 27, 2026.
+This list was most recently updated on September 27, 2026.
 
 ## Search Engines
 Remove results [from Google](https://example.com/google).
