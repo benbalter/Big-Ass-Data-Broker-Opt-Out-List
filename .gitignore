@@ -1,0 +1,4 @@
+node_modules/
+
+# Your personal opt-out data (profile, ledger, reports, screenshots). Never commit.
+private/
