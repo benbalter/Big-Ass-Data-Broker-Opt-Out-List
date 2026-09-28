@@ -74,7 +74,7 @@ Use the README's own sections to put these steps ahead of the broker list:
 
 ## 6. Discovery ("Find me")
 
-Use a **headed** (visible) browser, e.g. [Playwright MCP](https://github.com/microsoft/playwright-mcp), so the person can watch and step in. Use a separate browser profile, not the person's everyday logged-in one.
+Use the person's **own, visible Chrome** so they can watch and take over, driven by a browser extension such as [Claude in Chrome](https://claude.com/chrome). Many brokers sit behind Cloudflare, which rejects browsers launched for automation (Playwright MCP, Chrome DevTools MCP) at the "Verify you are human" check even when a person clicks it. A normal Chrome window passes once the person clicks. If they'd rather brokers didn't see their everyday cookies and logins, suggest a separate Chrome profile with the extension installed. Expect a human checkpoint at the first visit to most sites.
 
 For each broker, in priority order:
 
