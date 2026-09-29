@@ -132,6 +132,7 @@ If a broker only removes listings by email, draft it with §8 and show it to the
 - **Sites that ask "Where does X live?" or "What's their age?":** skip, or answer "I don't know." Never answer with real details.
 - **Rate limits:** PrivateRecords and PropertyRecs hung or returned "Rate Limit Exceeded" after one search. Stop, and retry on a later day.
 - **Single-use verification links** (PeopleConnect, UnMask, ZoomInfo) break if they're opened twice. Have the person open the link exactly once, then move that tab into your group. Don't reload it.
+- **Always run the email lookup too.** A name + state search can miss a listing that a reverse email lookup finds. In one real run, That's Them showed nothing by name but had the person's current street address under their email. With consent, run the person's email (and phone) through the sites that support it.
 - **Reverse lookups surface family.** A phone search can turn up a relative's listing that names the person. That listing is the relative's to remove; offer to draft them a note.
 - **ZoomInfo** is B2B: check the person's work email as well as their personal one.
 - **Brokers see the person's IP location** (UnMask pre-filled the state). Mention it; a VPN reduces what's collected while searching.
