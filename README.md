@@ -12,7 +12,7 @@ This list, also known as BADBOOL, was started in September 2017 and was most rec
 
 BADBOOL is and will always be free, but you are welcome to [buy me a coffee](https://ko-fi.com/kofisupporter11745)! 💕☕️ If you’d like to learn more about me and my other work, feel free to check out my website, [Yael Writes](https://yaelwrites.com/).
 
-How to use this page: We recommend opting out of high-priority sites first. If you only have the time and patience for 14, start with sites marked 💐. If you can do 20 (total), go to sites marked ☠ as well. Once you’ve completed all of those, you can start to work your way through the rest of the list. We’ve reordered this list by priority for your convenience. 
+How to use this page: We recommend opting out of high-priority sites first. If you only have the time and patience for 11, start with sites marked 💐. If you can do 16 (total), go to sites marked ☠ as well. Once you’ve completed all of those, you can start to work your way through the rest of the list. We’ve reordered this list by priority for your convenience. 
 
 Note that this list is primarily U.S.-based since it is a volunteer project based in the U.S. While it is intended for people in all U.S. states, California residents can use the [Delete Request and Opt-Out (DROP) portal](http://consumer.drop.privacy.ca.gov) to demand deletion of personal data from 500+ registered data brokers with a single request form, for free.
 
@@ -41,7 +41,7 @@ First, request a copy of your data by filling out your name and email address un
 Go to [Clustal.org](http://Clustal.org) and look for your information in the top search bar. Click on “view full record” to grab the URL. (This is important, as the original URL will not work.) Then, go to the [Privacy Control page](https://www.clustal.org/privacy-control), enter the URL, and click “remove my info.” Then enter your email address and click “remove my info” again. (Note that if you have more than one listing, you’ll need a different email address for each one.) Lastly, go to your inbox and click on the opt-out link in the email sent to you.
 
 ### 💐 Intelius
-[Find your information](https://www.intelius.com/). Opt out by emailing <support@mailer.intelius.com>, calling 1-888-245-1655, or [filling out a form](https://suppression.peopleconnect.us/login).  If you’re told that Intelius can't find your account, you may need to confirm your mailing address, phone number, old email addresses, or other information via email. (As always, make sure Intelius already has the information before providing it.) Intelius owns Addresses.com, Addresssearch.com, Anywho, Classmates, DateCheck, Instant Checkmate, InstantPeopleFinder, iSearch, LookUpAnyone, Peopleconnect.us, PeopleFinder, PeopleLookup, Phonesbook, Publicrecords, Spock, Truthfinder, US Search, and Zabasearch.
+[Find your information](https://www.intelius.com/). Opt out by emailing <support@mailer.intelius.com>, calling 1-888-245-1655, or [filling out a form](https://suppression.peopleconnect.us/login).  If you’re told that Intelius can't find your account, you may need to confirm your mailing address, phone number, old email addresses, or other information via email. (As always, make sure Intelius already has the information before providing it.) The suppression form will ask you to verify your email address, then ask for your date of birth (which can’t be changed once it’s saved) and legal name before showing you any matching records. Intelius owns Addresses.com, Addresssearch.com, Anywho, Classmates, DateCheck, Instant Checkmate, InstantPeopleFinder, iSearch, LookUpAnyone, Peopleconnect.us, PeopleFinder, PeopleLookup, Phonesbook, Publicrecords, Spock, Truthfinder, US Search, and Zabasearch.
 
 ### 💐 Men Stopping Violence
 
@@ -113,7 +113,7 @@ Look for [your information](https://www.everyjoe.com/) and insert the copied lin
 [Search for your information](https://www.freepeopledirectory.com). If you find it, you can opt out on [Spokeo’s opt-out page](https://www.spokeo.com/optout). Make sure to scroll down to the grammatically incorrect “opt out your information” section.
 
 ### InfoTracer
-[Find your information](https://www.infotracer.com) and opt out by [filling out the form](https://infotracer.com/optout/). You can also mail in [a different form](https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf) or fax it to 1-617-933-9946.
+[Find your information](https://www.infotracer.com) and opt out by [filling out the form](https://infotracer.com/optout/). (The opt-out link goes to a “Your Privacy Choices” page. To get to the form, click the “contact us HERE” link at the bottom.) You can also mail in [a different form](https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf) or fax it to 1-617-933-9946.
 
 ### National Public Data
 [Search for your data](https://nationalpublicdata.com/search), copy the unique URL, and paste it in the [opt-out form](https://nationalpublicdata.com/optout.html). You’ll then need to share your email address and verify the opt-out request via email.
@@ -143,7 +143,7 @@ Unfortunately, you have to sign up with a credit card to search for [your inform
 Find [your information](https://www.searchpeoplefree.com/), making sure to search by name, phone number, address and email address: [Opt out](https://www.searchpeoplefree.com/opt-out).
 
 ### SearchQuarry
-Find [your information](https://www.searchquarry.com/). If it’s listed, [opt out](https://members.searchquarry.com/removeMyData/) You will need to click the verification link in your inbox to finalize the opt out.
+Find [your information](https://www.searchquarry.com/). If it’s listed, [opt out](https://members.searchquarry.com/removeMyData/). You may need to complete a “slide to verify” check, and then you can search for your record by name and state on the removal page itself. You will need to click the verification link in your inbox to finalize the opt out.
 
 ### Social Catfish
 Find [your information](https://socialcatfish.com). Record the URL of each page that has your information. Then, go to the [opt-out page](https://socialcatfish.com/opt-out/) and scroll down to the instructions for removing URLs, email, phone number, and address. (Make sure to only ask for information to be removed if you already see it on the site.) You’ll need to provide your email address and click on a confirmation link to complete the opt-out process.
@@ -164,7 +164,7 @@ Search for [your information](https://unpan.org/) by filling out your first and 
 Search for [your information](https://www.unitedstatesphonebook.com/search.php). If your address is listed and you want it removed, enter the telephone number and zip code listed on the above site [in this page](https://www.unitedstatesphonebook.com/contact.php).
 
 ### UnMask
-Search for [your information](https://unmask.com/). Once you find your entry, go to the [opt out form](https://unmask.com/opt-out/) where you'll enter your name, city, and state. They'll send a confirmation email with a link to finish the removal process. You'll need to solve a couple captchas along the way.
+Search for [your information](https://unmask.com/). Once you find your entry, go to the [opt out form](https://unmask.com/opt-out/), which is now a “Suppression Center.” Enter your email address, click the verification link they send you, and then follow the prompts to see any matching records. You'll need to solve a couple captchas along the way.
 
 ### USA People Search
 [Find](https://www.usa-people-search.com/) and [remove your information](https://www.usa-people-search.com/removal).
