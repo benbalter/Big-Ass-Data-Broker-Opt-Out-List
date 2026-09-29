@@ -124,6 +124,18 @@ If a broker only removes listings by email, draft it with §8 and show it to the
 - **Cloudflare checks:** most brokers show "Verify you are human" on the first visit. Automation-launched browsers fail it; the person's own Chrome passes after they click.
 - **Intelius:** the search on intelius.com is a slow upsell funnel. Go straight to the README's PeopleConnect suppression form. It covers the sister sites and asks for email verification, then a permanent birthdate and legal name, before it shows any records.
 - **CheckPeople:** checking means first submitting a "Right to Know" request (name + email), so ask before doing it.
+- **Many sites share data.** Search the network once, but still check each site; results can differ. Seen together:
+  - Clustal, Men Stopping Violence, EveryJoe, UNPAN and National Public Data;
+  - FastPeopleSearch, USA People Search and PeopleSearchNow;
+  - UnMask, which reuses PeopleConnect's verified identity.
+- **Opt-out pages beat search pages.** Several "searches" are paid funnels or affiliate redirects: UnMask, SearchQuarry and InfoTracer's search (it pops up BeenVerified), TruePeopleSearch.net (sends you to TruthFinder), PrivateEye (sends you to PeopleFinders), and That's Them's search (sends you to Spokeo). The README's opt-out page is usually the free way to see a record. Ignore pop-ups and don't accept terms on the funnel.
+- **Sites that ask "Where does X live?" or "What's their age?":** skip, or answer "I don't know." Never answer with real details.
+- **Rate limits:** PrivateRecords and PropertyRecs hung or returned "Rate Limit Exceeded" after one search. Stop, and retry on a later day.
+- **Single-use verification links** (PeopleConnect, UnMask, ZoomInfo) break if they're opened twice. Have the person open the link exactly once, then move that tab into your group. Don't reload it.
+- **Reverse lookups surface family.** A phone search can turn up a relative's listing that names the person. That listing is the relative's to remove; offer to draft them a note.
+- **ZoomInfo** is B2B: check the person's work email as well as their personal one.
+- **Brokers see the person's IP location** (UnMask pre-filled the state). Mention it; a VPN reduces what's collected while searching.
+- **Browser tab groups (Claude in Chrome):** closing tabs, especially the last one in your group, can drop the group and lose any tab the person moved into it. Leave tabs open until the end of the session, then clean up.
 
 ## 8. Email and letter templates
 
