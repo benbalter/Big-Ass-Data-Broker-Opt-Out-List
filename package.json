@@ -1,0 +1,20 @@
+{
+  "name": "badbool-agent",
+  "private": true,
+  "description": "Generates data/brokers.json from the BADBOOL README for use by AI agents (see AGENTS.md).",
+  "license": "CC-BY-NC-SA-4.0",
+  "type": "module",
+  "scripts": {
+    "build:data": "node scripts/build-brokers.mjs",
+    "check:data": "node scripts/build-brokers.mjs --check",
+    "test": "node --test scripts/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "mdast-util-to-string": "4.0.0",
+    "remark-parse": "11.0.0",
+    "unified": "11.0.5"
+  }
+}
